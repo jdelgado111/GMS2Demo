@@ -1,8 +1,8 @@
 {
-    "id": "f0d3f7bb-5043-421d-9725-dc233f57c35f",
+    "id": "6f356840-9df5-44de-b8ef-88b531a5d1cb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_player",
+    "name": "obj_enemy",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "b9919eaf-8c1a-43b7-87c8-9653414427af",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
