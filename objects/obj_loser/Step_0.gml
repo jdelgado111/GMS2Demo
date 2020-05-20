@@ -35,8 +35,8 @@ if((global.loserCollision == 1) && (obj_player.y < (obj_loser.y - obj_loser.spri
 	/// @DnDVersion : 1
 	/// @DnDHash : 5A365B85
 	/// @DnDParent : 05D23197
-	/// @DnDArgument : "speed" "4"
-	speed = 4;
+	/// @DnDArgument : "speed" "5"
+	speed = 5;
 }
 
 /// @DnDAction : YoYo Games.Common.If_Expression
